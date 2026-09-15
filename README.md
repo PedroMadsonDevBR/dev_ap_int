@@ -33,7 +33,7 @@
 - [ ] Entender a diferença entre Front-end (interface) e Back-end (bastidores).
 - [ ] Conseguir construir uma página que se adapta a telas de celulares e computadores.
 - [ ] Conectar a interface a uma API pública (ex: buscar clima, CEP, filmes).
-- [ ] Realizar entregas contínuas subindo os projetos no repositório da disciplina.
+- [ ] Realizar entregas contínuas subindo os desafios no repositório da disciplina.
 
 - Docente: Prof. Mentor Cloves Rocha.
 - Discentes: 
